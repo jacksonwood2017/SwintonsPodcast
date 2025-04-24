@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-24T15:08:00.447Z",
+  "created_by": "jacksonwood2017",
+  "title": "Houston Voice",
+  "slug": "houston-voice",
+  "updated_at": "2025-04-24T15:08:00.447Z",
+  "updated_by": "jacksonwood2017",
+  "parent": "0e5e13c6-7723-4a69-b34e-ed4b970f06b8",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "ce190e7d-b898-4b4f-a78e-5096fa16141f"
+  }
+}
